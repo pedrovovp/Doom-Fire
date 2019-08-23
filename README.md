@@ -1,3 +1,3 @@
 # Doom-Fire
 
-First project using JS
+First project using JavaScript
